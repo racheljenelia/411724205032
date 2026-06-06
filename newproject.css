@@ -1,0 +1,45 @@
+body{
+    color:green;
+    background-color:black;
+}
+
+p{
+    font-size:xx-large;
+    font-family:'Times New Roman',Times,serif;
+    font-style:italic;
+}
+
+video{
+    width:500;
+
+}
+
+button{
+    width:100px;
+    padding:20px;
+    margin:10px;
+    background-color:beige;
+}
+
+button:hover{
+    background-color: cadetblue;
+}
+
+h1{
+    padding: 50px;
+    border: 3px salmon;
+    margin: 10px
+}
+
+nav{
+    display:flex;
+    flex-direction:row;
+}
+
+.group{
+    font-size: xx-large;
+}
+
+.grid{
+    display grid;
+}
